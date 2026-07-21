@@ -13,7 +13,7 @@ google_analytics: ''
 disqus: ''
 baseurl: ""
 
-# Permalinks22
+# Permalinks
 permalink: /:title
 
 # gems and other configs
