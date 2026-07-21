@@ -11,7 +11,7 @@ description: 'hwaseongglobalcenter'
 short_url: 'hwaseongglobalcenter.github.io'
 google_analytics: ''
 disqus: ''
-baseurl: ""
+baseurl: "/"
 
 # Permalinks
 permalink: /:title
