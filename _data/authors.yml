@@ -1,10 +1,10 @@
-casper:
-  username: casper
-  name: Casper McFadden
-  location: Maine, USA
-  url_full: http://jekyllt.github.io/jasper/
-  url: jekyllt.github.io/jasper
-  bio: A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and a friendly one, Casper.
+최보람:
+  username: 최보람
+  name: 최보람
+  location: korea
+  url_full: https://hwaseongglobalcenter.github.io/
+  url: hwaseongglobalcenter.github.io/
+  bio: 화성글로벌센터 센터장
   assets: assets/images/casper.png
 lewis:
   username: lewis
