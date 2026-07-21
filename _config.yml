@@ -1,0 +1,43 @@
+# Jekyll configuration
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+language: 'en-uk'
+
+# Website info
+name: 'hwaseongglobalcenter'
+description: 'hwaseongglobalcenter'
+
+short_url: 'hwaseongglobalcenter.github.io'
+google_analytics: ''
+disqus: ''
+baseurl: ""
+
+# Permalinks22
+permalink: /:title
+
+# gems and other configs
+plugins: [jekyll-paginate]
+
+# Settings for deploy
+safe: false
+lsi: false
+username: hwaseongglobalcenter
+repo: hwaseongglobalcenter.github.io
+branch: main
+relative_source: ../jasper/
+destination: ../jasper-pages/
+production_url: https://hwaseongglobalcenter.github.io
+source_url: https://github.com/hwaseongglobalcenter/hwaseongglobalcenter.github.io
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
+  - node_modules
+  - .git
