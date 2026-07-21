@@ -3,6 +3,8 @@ markdown: kramdown
 highlighter: rouge
 paginate: 5
 language: 'en-uk'
+timezone: Asia/Seoul
+future: true
 
 # Website info
 name: 'hwaseongglobalcenter'
